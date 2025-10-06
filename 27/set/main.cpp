@@ -14,3 +14,5 @@ int main()
 
     return 0;
 }
+
+//g++ main.cpp -o output.exe -std=c++20
